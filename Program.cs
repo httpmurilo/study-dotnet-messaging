@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using study_project.db;
+using study_project.messaging.service;
+using study_project.repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,19 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddSingleton<ProducerCartUpdateService>();
+builder.Services.AddSingleton<ICartRepository>();
+builder.Services.AddSingleton<IItensRepository>();
+builder.Services.AddSingleton<ICustomerRepository>();
+builder.Services.AddHostedService<ConsumerService>();
+
+
+//log
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+
+builder.Logging.ClearProviders().AddConsole();
 
 var app = builder.Build();
 

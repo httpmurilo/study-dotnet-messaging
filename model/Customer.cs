@@ -8,6 +8,5 @@ namespace study_project.model
         public string nome { get; set; }
         public string email { get; set; }
         public bool isActive { get; set; }
-        public List<Itens> itens { get; } = [];
     }
 }

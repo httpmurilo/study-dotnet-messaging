@@ -13,11 +13,11 @@ namespace study_project.db
         public DbSet<Customer> customer { get; set; }
         public DbSet<Itens> itens { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Itens>()
-                .HasMany(e => e.customers)
-                .WithMany(e => e.itens);
-        }
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Itens>()
+        //        .HasMany(e => e.customers)
+         //       .WithMany(e => e.itens);
+        //}
     }
 }
