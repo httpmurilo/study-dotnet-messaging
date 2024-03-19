@@ -3,28 +3,76 @@
   "WorkspaceRootPath": "D:\\Estudos\\study-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\model\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:model\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\controllers\\processingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:controllers\\processingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\model\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:model\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\impl\\itensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\impl\\itensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\impl\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\impl\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\controllers\\itenscartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:controllers\\itenscartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\impl\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\impl\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\repository\\iitensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:repository\\iitensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\study-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:study-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\study-project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:study-project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|d:\\estudos\\study-project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{901A8028-08D3-45D3-8F1A-468DF9325319}|study-project.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,51 +90,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Itens.cs",
-              "DocumentMoniker": "D:\\Estudos\\study-project\\model\\Itens.cs",
-              "RelativeDocumentMoniker": "model\\Itens.cs",
-              "ToolTip": "D:\\Estudos\\study-project\\model\\Itens.cs",
-              "RelativeToolTip": "model\\Itens.cs",
+              "DocumentIndex": 1,
+              "Title": "ProcessingController.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Controllers\\ProcessingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProcessingController.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\Controllers\\ProcessingController.cs",
+              "RelativeToolTip": "Controllers\\ProcessingController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T13:45:02.486Z",
+              "WhenOpened": "2024-03-19T22:43:34.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "ItensCartController.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Controllers\\ItensCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItensCartController.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\Controllers\\ItensCartController.cs",
+              "RelativeToolTip": "Controllers\\ItensCartController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:10:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwBQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:09:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:09:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\impl\\CartRepository.cs",
+              "RelativeDocumentMoniker": "repository\\impl\\CartRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\impl\\CartRepository.cs",
+              "RelativeToolTip": "repository\\impl\\CartRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:00:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\Estudos\\study-project\\model\\Cart.cs",
               "RelativeDocumentMoniker": "model\\Cart.cs",
               "ToolTip": "D:\\Estudos\\study-project\\model\\Cart.cs",
               "RelativeToolTip": "model\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T13:44:09.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ItensRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\impl\\ItensRepository.cs",
+              "RelativeDocumentMoniker": "repository\\impl\\ItensRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\impl\\ItensRepository.cs",
+              "RelativeToolTip": "repository\\impl\\ItensRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:01:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Estudos\\study-project\\model\\Customer.cs",
               "RelativeDocumentMoniker": "model\\Customer.cs",
               "ToolTip": "D:\\Estudos\\study-project\\model\\Customer.cs",
               "RelativeToolTip": "model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T13:41:24.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "study-project",
+              "DocumentIndex": 2,
+              "Title": "Itens.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\model\\Itens.cs",
+              "RelativeDocumentMoniker": "model\\Itens.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\model\\Itens.cs",
+              "RelativeToolTip": "model\\Itens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:45:02.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\db\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "db\\DatabaseContext.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\db\\DatabaseContext.cs",
+              "RelativeToolTip": "db\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:40:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "repository\\ICartRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\ICartRepository.cs",
+              "RelativeToolTip": "repository\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:54:14.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\impl\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "repository\\impl\\CustomerRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\impl\\CustomerRepository.cs",
+              "RelativeToolTip": "repository\\impl\\CustomerRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:00:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:54:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IItensRepository.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\repository\\IItensRepository.cs",
+              "RelativeDocumentMoniker": "repository\\IItensRepository.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\repository\\IItensRepository.cs",
+              "RelativeToolTip": "repository\\IItensRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:54:46.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Estudos\\study-project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:48:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "study-project.csproj",
               "DocumentMoniker": "D:\\Estudos\\study-project\\study-project.csproj",
               "RelativeDocumentMoniker": "study-project.csproj",
               "ToolTip": "D:\\Estudos\\study-project\\study-project.csproj",
@@ -102,20 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Estudos\\study-project\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Estudos\\study-project\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-16T13:36:57.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "study-project.http",
               "DocumentMoniker": "D:\\Estudos\\study-project\\study-project.http",
               "RelativeDocumentMoniker": "study-project.http",
@@ -128,7 +315,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Estudos\\study-project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Estudos\\study-project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T13:36:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Estudos\\study-project\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -141,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Estudos\\study-project\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -150,19 +350,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-16T13:36:30.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Estudos\\study-project\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Estudos\\study-project\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T13:35:31.582Z",
               "EditorCaption": ""
             }
           ]

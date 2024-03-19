@@ -1,6 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using study_project.db;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddDbContext<DatabaseContext>(options =>
+{
+    options.UseInMemoryDatabase(databaseName: "test");
+});
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
