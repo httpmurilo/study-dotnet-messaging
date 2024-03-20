@@ -18,9 +18,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<ProducerCartUpdateService>();
-builder.Services.AddSingleton<ICartRepository>();
-builder.Services.AddSingleton<IItensRepository>();
-builder.Services.AddSingleton<ICustomerRepository>();
 builder.Services.AddHostedService<ConsumerService>();
 
 

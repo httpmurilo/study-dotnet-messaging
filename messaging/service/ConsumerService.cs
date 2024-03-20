@@ -55,4 +55,3 @@ namespace study_project.messaging.service
         }
     }
 }
-}
